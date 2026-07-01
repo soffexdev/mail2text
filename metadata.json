@@ -1,0 +1,6 @@
+{
+  "name": "Mail2Text Pro",
+  "description": "Convert batches of .eml and .msg files to clean plain text, automatically stripping out long URLs and safe-links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
